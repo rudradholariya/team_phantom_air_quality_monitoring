@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load data
-data_path = 'C:/Users/Shivkumar/Downloads/air_quality_monitoring.csv'  # Replace with your file path
+data_path = 'C:\Users\yuggu\Desktop\air_quality_monitoring.csv'  # Replace with your file path
 data = pd.read_csv(data_path)
 
 # Bar chart: PM2.5 and PM10 levels per city
