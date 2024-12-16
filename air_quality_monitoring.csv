@@ -1,0 +1,11 @@
+City,PM2.5,PM10,PM2.5 Status,PM10 Status
+City A,31.2,25.8,Moderate,Good
+City B,71.6,291.6,Very Unhealthy,Very Unhealthy
+City C,56.2,253.1,Very Unhealthy,Unhealthy
+City D,46.9,79.5,Unhealthy,Moderate
+City E,15.9,70.9,Moderate,Moderate
+City F,15.9,71.4,Moderate,Moderate
+City G,9.1,105.2,Good,Moderate
+City H,65.6,166.9,Very Unhealthy,Unhealthy
+City I,47.1,140.9,Unhealthy,Moderate
+City J,54.6,101.5,Unhealthy,Moderate
